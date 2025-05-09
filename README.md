@@ -27,9 +27,8 @@ pip install opencv-python opencv-python-headless numpy
 
 ```bash
 .
-├── face_eye_detection.py  # Main script to run face and eye detection
+├── main.py  # Main script to run face and eye detection
 ├── README.md              # This file
-└── requirements.txt       # List of dependencies
 ```
 
 ## Usage
